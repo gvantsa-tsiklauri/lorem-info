@@ -1,0 +1,93 @@
+* {
+    box-sizing: border-box;
+}
+.main-container{
+    background-color: white;
+    padding-top: 78px;
+}
+.box1{
+    width: 777px;
+    height: 311px;
+    background-color: #FAFAFA;
+    margin-left: 41px;
+    border-radius: 20px;
+    border: 1px solid #DCDCDC;
+    display: flex;
+}
+.rock-img{
+    margin-top: 63px;
+    margin-left: 23px;
+    width: 237.95px;
+    height: 184.57px;
+}
+.title-box{
+    max-width: 273px;
+    margin-top: 63px;
+    margin-left: 26.05px;
+}
+.title{
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 36.31px;
+}
+.text-box{
+    max-width: 468px;
+    margin-top: 103px;
+    margin-left: 287px;
+    position: absolute;
+}
+.text{
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 22.99px;
+}
+.read-more-box{
+    margin-top: 248px;
+    text-align: right;
+    margin-left: auto;
+    margin-right: 38.22px;
+}
+.read-more{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24.2px;
+    color: #5076FF;
+}
+.line{
+    width: 100%;
+    color:#DFDFDF;
+    margin-top: 107px;
+}
+.box2{
+    width: 777px;
+    height: 311px;
+    margin-top: 103px;
+    margin-left: auto;
+    background-color: white;
+    border: 1px solid #DCDCDC;
+    border-radius: 20px;
+    padding-left: 27px;
+    position: relative;
+    display: flex;
+}
+.title-box2{
+    margin-top: 63px;
+    max-width: 273px;
+    position: absolute;
+}
+.text-box2{
+    max-width: 468px;
+    position: absolute;
+    margin-top: 103px;
+}
+.headphone-img{
+    margin-top: 15px;
+    margin-left: 495px;
+    width: 250px;
+    height: 250px;
+}
+.read-more-box2{
+    position: absolute;
+    margin-top: 248px;
+    margin-left: 386px;
+}
